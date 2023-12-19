@@ -1,0 +1,19 @@
+{
+    "name": "plaravel/todolist",
+    "description": "test package",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Plaravel\\Todolist\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "plaravel",
+            "email": "plaravel@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
